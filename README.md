@@ -3,7 +3,7 @@
 > ESP32-based tunnel lighting system with Wi-Fi web control, auto-off timer, and sequential lighting mode.
 
 **West Yangon Technological University — Department of Electronic Engineering**
-*II B.E. EC · April 2024 ·
+*II B.E. EC ·
 ---
 
 ## 📌 Overview
