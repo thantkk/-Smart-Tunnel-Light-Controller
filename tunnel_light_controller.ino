@@ -2,7 +2,7 @@
  * ============================================================
  *  Smart Tunnel Light Controller
  *  West Yangon Technological University — Dept. of Electronic Engineering
- *  II B.E. EC — April 2024
+ *  II B.E. EC 
  *
  *  Hardware : ESP32 Dev Kit V1
  *  LEDs     : 3 × 0.5 mm LED (via 220 Ω current-limiting resistors)
